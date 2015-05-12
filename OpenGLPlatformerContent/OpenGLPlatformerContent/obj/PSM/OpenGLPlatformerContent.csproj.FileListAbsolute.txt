@@ -1,0 +1,152 @@
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Fonts\myFont.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\main_theme.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\circle10.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\default.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Gunman.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Celebrate.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Die.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Run.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\pixel.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\PlatformTiles.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Soma Cruz\Walk.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\idlewider.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\jumpnohair.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Run.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\run1.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\runnohair.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\runwider.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\main_theme.wma
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\IgnoreMe.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\PSM\IgnoreMe.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\PSM\OpenGLPlatformerContent.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Fonts\myFont.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\main_theme.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\circle10.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\default.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Gunman.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Celebrate.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Die.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Run.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\pixel.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\PlatformTiles.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Soma Cruz\Walk.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\idlewider.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\jumpnohair.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Run.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\run1.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\runnohair.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\runwider.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\main_theme.wma
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\IgnoreMe.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\PSM\OpenGLPlatformerContent.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\PSM\IgnoreMe.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Fonts\myFont.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\main_theme.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\circle10.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\default.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Gunman.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Idle.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Celebrate.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Die.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Idle.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Jump.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Run.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Jump.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\pixel.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\PlatformTiles.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Soma Cruz\Walk.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Idle.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\idlewider.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Jump.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\jumpnohair.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Run.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\run1.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\runnohair.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\runwider.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Gem.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterA\Idle.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterA\Run.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterB\Idle.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterB\Run.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterC\Idle.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterC\Run.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterD\Idle.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterD\Run.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\IndieWolf\IndieWolf.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Backgrounds\Mountain\mountain1.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Backgrounds\Mountain\mountain2.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\main_theme.wma
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Maps\level0.MAP
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Maps\level1.MAP
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\IndieWolf\IndieWolf.png
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\IgnoreMe.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\PSM\IgnoreMe.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Fonts\myFont.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\main_theme.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\circle10.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\default.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Gunman.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Celebrate.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Die.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Jump.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Run.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Jump.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\pixel.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\PlatformTiles.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Soma Cruz\Walk.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\idlewider.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Jump.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\jumpnohair.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Run.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\run1.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\runnohair.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\runwider.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Gem.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterA\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterA\Run.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterB\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterB\Run.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterC\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterC\Run.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterD\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterD\Run.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\IndieWolf\IndieWolf.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Backgrounds\Mountain\mountain1.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Backgrounds\Mountain\mountain2.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\enemy_default.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\enemy_move.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\main_theme.wma
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\IndieWolf\IndieWolf.png
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\IgnoreMe.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\PSM\IgnoreMe.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Maps\level0.MAP
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Maps\level1.MAP
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\bullet.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\Enemyrun.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\Jump.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\model.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\Run.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\IndieWolf\Knife.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\portal1.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\portal2.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\gempickup.xnb

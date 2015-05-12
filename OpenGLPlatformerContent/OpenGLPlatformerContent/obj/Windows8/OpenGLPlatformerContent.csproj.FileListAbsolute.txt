@@ -1,0 +1,27 @@
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Fonts\myFont.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Sounds\main_theme.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\circle10.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\default.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Gunman.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Indiana\Celebrate.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Indiana\Die.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Indiana\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Indiana\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Indiana\Run.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\pixel.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\PlatformTiles.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Soma Cruz\Walk.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\idlewider.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\jumpnohair.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\Run.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\run1.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\runnohair.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\runwider.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Sounds\main_theme.wma
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\IgnoreMe.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\Windows8\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\obj\Windows8\IgnoreMe.dll

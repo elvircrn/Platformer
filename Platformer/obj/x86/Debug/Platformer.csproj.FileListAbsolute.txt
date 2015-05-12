@@ -1,0 +1,216 @@
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Platformer.exe
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Platformer.pdb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\PhysicsEngine.exe
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\TileEngine.exe
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\PhysicsEngine.pdb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\TileEngine.pdb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Fonts\myFont.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Sounds\main_theme.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\circle10.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\default.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Gunman.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Celebrate.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Die.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Run.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\pixel.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\PlatformTiles.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Soma Cruz\Walk.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\idlewider.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\jumpnohair.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Run.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\run1.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\runnohair.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\runwider.xnb
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\Content\Sounds\main_theme.wma
+C:\Users\Inspiron\Desktop\maturski\Platformer\Platformer\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Fonts\myFont.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Sounds\main_theme.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\circle10.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\default.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Gunman.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Celebrate.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Die.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Run.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\pixel.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\PlatformTiles.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Soma Cruz\Walk.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Idle.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\idlewider.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Jump.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\jumpnohair.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Run.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\run1.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\runnohair.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\runwider.xnb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Sounds\main_theme.wma
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Platformer.exe
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Platformer.pdb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\PhysicsEngine.exe
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\TileEngine.exe
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\PhysicsEngine.pdb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\TileEngine.pdb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Fonts\myFont.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Sounds\main_theme.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\circle10.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\default.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Gunman.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Idle.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Celebrate.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Die.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Idle.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Jump.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Run.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Jump.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\pixel.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\PlatformTiles.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Soma Cruz\Walk.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Idle.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\idlewider.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Jump.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\jumpnohair.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Run.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\run1.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\runnohair.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\runwider.xnb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Sounds\main_theme.wma
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Platformer.exe
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Platformer.pdb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\PhysicsEngine.exe
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\TileEngine.exe
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\PhysicsEngine.pdb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\TileEngine.pdb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Fonts\myFont.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Sounds\main_theme.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\circle10.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\default.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Gunman.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Celebrate.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Die.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Jump.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Indiana\Run.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Jump.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\pixel.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\PlatformTiles.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Soma Cruz\Walk.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Idle.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\idlewider.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Jump.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\jumpnohair.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\Run.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\run1.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\runnohair.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Textures\Zero\runwider.xnb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Content\Sounds\main_theme.wma
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Platformer.exe
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Platformer.pdb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\PhysicsEngine.exe
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\TileEngine.exe
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\PhysicsEngine.pdb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\TileEngine.pdb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\Platformer\obj\x86\Debug\Platformer.pdb

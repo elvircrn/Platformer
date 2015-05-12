@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\myFont.spritefont</Source>
+      <Name>Fonts\myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Fonts\myFont.xnb</Output>
+      <Time>2014-08-28T00:35:42.6382195+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\main_theme.mp3</Source>
+      <Name>Sounds\main_theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Sounds\main_theme.xnb</Output>
+      <Extra>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Sounds\main_theme.wma</Extra>
+      <Time>2014-08-28T00:35:42.9012346+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\circle10.png</Source>
+      <Name>Textures\circle10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\circle10.xnb</Output>
+      <Time>2014-08-28T00:35:42.9272361+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\default.png</Source>
+      <Name>Textures\default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\default.xnb</Output>
+      <Time>2014-08-28T00:35:42.9292362+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gunman.png</Source>
+      <Name>Textures\Gunman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Gunman.xnb</Output>
+      <Time>2014-08-28T00:35:42.9832393+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Idle.png</Source>
+      <Name>Textures\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Idle.xnb</Output>
+      <Time>2014-08-28T00:35:42.9942399+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Indiana\Celebrate.png</Source>
+      <Name>Textures\Indiana\Celebrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Indiana\Celebrate.xnb</Output>
+      <Time>2014-08-28T00:35:43.0092407+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Indiana\Die.png</Source>
+      <Name>Textures\Indiana\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Indiana\Die.xnb</Output>
+      <Time>2014-08-28T00:35:43.0612437+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Indiana\Idle.png</Source>
+      <Name>Textures\Indiana\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Indiana\Idle.xnb</Output>
+      <Time>2014-08-28T00:35:43.1452485+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Indiana\Jump.png</Source>
+      <Name>Textures\Indiana\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Indiana\Jump.xnb</Output>
+      <Time>2014-08-28T00:35:43.1692499+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Indiana\Run.png</Source>
+      <Name>Textures\Indiana\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Indiana\Run.xnb</Output>
+      <Time>2014-08-28T00:35:43.1862509+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Jump.png</Source>
+      <Name>Textures\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Jump.xnb</Output>
+      <Time>2014-08-28T00:35:43.2002517+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pixel.png</Source>
+      <Name>Textures\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\pixel.xnb</Output>
+      <Time>2014-08-28T00:35:43.2042519+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlatformTiles.png</Source>
+      <Name>Textures\PlatformTiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\PlatformTiles.xnb</Output>
+      <Time>2014-08-28T00:35:43.2222529+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Soma Cruz\Walk.png</Source>
+      <Name>Textures\Soma Cruz\Walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Soma Cruz\Walk.xnb</Output>
+      <Time>2014-08-28T00:35:43.2262532+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\Idle.png</Source>
+      <Name>Textures\Zero\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\Idle.xnb</Output>
+      <Time>2014-08-28T00:35:43.2442542+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\idlewider.png</Source>
+      <Name>Textures\Zero\idlewider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\idlewider.xnb</Output>
+      <Time>2014-08-28T00:35:43.2562549+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\Jump.png</Source>
+      <Name>Textures\Zero\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\Jump.xnb</Output>
+      <Time>2014-08-28T00:35:43.2602551+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\jumpnohair.png</Source>
+      <Name>Textures\Zero\jumpnohair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\jumpnohair.xnb</Output>
+      <Time>2014-08-28T00:35:43.2722558+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\Run.png</Source>
+      <Name>Textures\Zero\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\Run.xnb</Output>
+      <Time>2014-08-28T00:35:43.2902568+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\run1.png</Source>
+      <Name>Textures\Zero\run1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\run1.xnb</Output>
+      <Time>2014-08-28T00:35:43.3012574+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\runnohair.png</Source>
+      <Name>Textures\Zero\runnohair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\runnohair.xnb</Output>
+      <Time>2014-08-28T00:35:43.310258+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\runwider.png</Source>
+      <Name>Textures\Zero\runwider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\Textures\Zero\runwider.xnb</Output>
+      <Time>2014-08-28T00:35:43.3212586+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Windows8</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContentContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContentContent\obj\Windows8\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\Windows8\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2014-04-05T23:56:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-08-25T15:05:15.0220128+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\myFont.spritefont</Source>
+      <Name>Fonts\myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Fonts\myFont.xnb</Output>
+      <Time>2014-08-28T00:35:42.6382195+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\main_theme.mp3</Source>
+      <Name>Sounds\main_theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\main_theme.xnb</Output>
+      <Extra>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Sounds\main_theme.wma</Extra>
+      <Time>2014-08-28T00:35:42.9012346+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\circle10.png</Source>
+      <Name>Textures\circle10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\circle10.xnb</Output>
+      <Time>2014-08-28T00:35:42.9272361+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\default.png</Source>
+      <Name>Textures\default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\default.xnb</Output>
+      <Time>2014-08-28T00:35:42.9292362+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gunman.png</Source>
+      <Name>Textures\Gunman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Gunman.xnb</Output>
+      <Time>2014-08-28T00:35:42.9832393+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Idle.png</Source>
+      <Name>Textures\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Idle.xnb</Output>
+      <Time>2014-08-28T00:35:42.9942399+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Indiana\Celebrate.png</Source>
+      <Name>Textures\Indiana\Celebrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Celebrate.xnb</Output>
+      <Time>2014-08-28T00:35:43.0092407+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Indiana\Die.png</Source>
+      <Name>Textures\Indiana\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Die.xnb</Output>
+      <Time>2014-08-28T00:35:43.0612437+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Indiana\Idle.png</Source>
+      <Name>Textures\Indiana\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Idle.xnb</Output>
+      <Time>2014-08-28T00:35:43.1452485+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Indiana\Jump.png</Source>
+      <Name>Textures\Indiana\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Jump.xnb</Output>
+      <Time>2014-08-28T00:35:43.1692499+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Indiana\Run.png</Source>
+      <Name>Textures\Indiana\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Indiana\Run.xnb</Output>
+      <Time>2014-08-28T00:35:43.1862509+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Jump.png</Source>
+      <Name>Textures\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Jump.xnb</Output>
+      <Time>2014-08-28T00:35:43.2002517+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pixel.png</Source>
+      <Name>Textures\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\pixel.xnb</Output>
+      <Time>2014-08-28T00:35:43.2042519+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlatformTiles.png</Source>
+      <Name>Textures\PlatformTiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\PlatformTiles.xnb</Output>
+      <Time>2015-01-04T21:10:01.0459345+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Soma Cruz\Walk.png</Source>
+      <Name>Textures\Soma Cruz\Walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Soma Cruz\Walk.xnb</Output>
+      <Time>2014-08-28T00:35:43.2262532+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\Idle.png</Source>
+      <Name>Textures\Zero\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Idle.xnb</Output>
+      <Time>2014-08-28T00:35:43.2442542+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\idlewider.png</Source>
+      <Name>Textures\Zero\idlewider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\idlewider.xnb</Output>
+      <Time>2014-08-28T00:35:43.2562549+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\Jump.png</Source>
+      <Name>Textures\Zero\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Jump.xnb</Output>
+      <Time>2014-08-28T00:35:43.2602551+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\jumpnohair.png</Source>
+      <Name>Textures\Zero\jumpnohair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\jumpnohair.xnb</Output>
+      <Time>2014-08-28T00:35:43.2722558+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\Run.png</Source>
+      <Name>Textures\Zero\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\Run.xnb</Output>
+      <Time>2014-08-28T00:35:43.2902568+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\run1.png</Source>
+      <Name>Textures\Zero\run1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\run1.xnb</Output>
+      <Time>2014-08-28T00:35:43.3012574+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\runnohair.png</Source>
+      <Name>Textures\Zero\runnohair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\runnohair.xnb</Output>
+      <Time>2014-08-28T00:35:43.310258+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Zero\runwider.png</Source>
+      <Name>Textures\Zero\runwider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Zero\runwider.xnb</Output>
+      <Time>2014-08-28T00:35:43.3212586+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gem.png</Source>
+      <Name>Textures\Gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Gem.xnb</Output>
+      <Time>2014-08-31T21:35:51.940601+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MonsterA\Idle.png</Source>
+      <Name>Textures\MonsterA\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterA\Idle.xnb</Output>
+      <Time>2014-08-31T21:59:57.2022652+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MonsterA\Run.png</Source>
+      <Name>Textures\MonsterA\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterA\Run.xnb</Output>
+      <Time>2014-08-31T21:59:57.2042653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MonsterB\Idle.png</Source>
+      <Name>Textures\MonsterB\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterB\Idle.xnb</Output>
+      <Time>2014-08-31T21:59:57.2062655+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MonsterB\Run.png</Source>
+      <Name>Textures\MonsterB\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterB\Run.xnb</Output>
+      <Time>2014-08-31T21:59:57.2082656+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MonsterC\Idle.png</Source>
+      <Name>Textures\MonsterC\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterC\Idle.xnb</Output>
+      <Time>2014-08-31T21:59:57.1972649+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MonsterC\Run.png</Source>
+      <Name>Textures\MonsterC\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterC\Run.xnb</Output>
+      <Time>2014-08-31T21:59:57.198265+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MonsterD\Idle.png</Source>
+      <Name>Textures\MonsterD\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterD\Idle.xnb</Output>
+      <Time>2014-08-31T21:59:57.1992651+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MonsterD\Run.png</Source>
+      <Name>Textures\MonsterD\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\MonsterD\Run.xnb</Output>
+      <Time>2014-08-31T21:59:57.2002651+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\IndieWolf\IndieWolf.png</Source>
+      <Name>Textures\IndieWolf\IndieWolf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\IndieWolf\IndieWolf.xnb</Output>
+      <Time>2014-12-31T13:22:05.2348295+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Mountain\mountain1.png</Source>
+      <Name>Textures\Backgrounds\Mountain\mountain1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Backgrounds\Mountain\mountain1.xnb</Output>
+      <Time>2014-09-16T19:20:13.436843+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Mountain\mountain2.png</Source>
+      <Name>Textures\Backgrounds\Mountain\mountain2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Backgrounds\Mountain\mountain2.xnb</Output>
+      <Time>2014-09-16T21:16:17.1161427+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\enemy_default.png</Source>
+      <Name>Textures\enemy_default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\enemy_default.xnb</Output>
+      <Time>2014-12-03T18:49:37.9395896+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\enemy_move.png</Source>
+      <Name>Textures\enemy_move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\enemy_move.xnb</Output>
+      <Time>2014-12-04T23:26:32.1391792+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Commander\bullet.png</Source>
+      <Name>Textures\Commander\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\bullet.xnb</Output>
+      <Time>2014-12-30T22:18:20.2789872+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Commander\Enemyrun.png</Source>
+      <Name>Textures\Commander\Enemyrun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\Enemyrun.xnb</Output>
+      <Time>2014-12-30T22:18:20.2899878+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Commander\Idle.png</Source>
+      <Name>Textures\Commander\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\Idle.xnb</Output>
+      <Time>2014-12-30T22:18:20.3619908+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Commander\Jump.png</Source>
+      <Name>Textures\Commander\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\Jump.xnb</Output>
+      <Time>2014-12-30T22:18:20.4419954+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Commander\model.png</Source>
+      <Name>Textures\Commander\model</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\model.xnb</Output>
+      <Time>2014-12-30T22:18:20.4659968+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Commander\Run.png</Source>
+      <Name>Textures\Commander\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\Commander\Run.xnb</Output>
+      <Time>2014-12-30T22:18:20.4769974+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\IndieWolf\Knife.png</Source>
+      <Name>Textures\IndieWolf\Knife</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\IndieWolf\Knife.xnb</Output>
+      <Time>2014-12-31T13:07:50.089918+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\portal1.png</Source>
+      <Name>Textures\portal1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\portal1.xnb</Output>
+      <Time>2015-01-01T15:50:55.2531059+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\portal2.png</Source>
+      <Name>Textures\portal2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\Textures\portal2.xnb</Output>
+      <Time>2015-01-01T15:50:43.0934104+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>PSM</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContentContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContentContent\obj\PSM\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\OpenGLPlatformerContent\OpenGLPlatformerContent\bin\PSM\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2014-04-05T23:56:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-03T11:25:23.3963954+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

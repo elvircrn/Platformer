@@ -1,0 +1,99 @@
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\PhysicsEngine.exe
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\PhysicsEngine.pdb
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.exe
+C:\Users\Inspiron\Desktop\maturski\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.pdb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\PhysicsEngine.exe
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\PhysicsEngine.pdb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.exe
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.pdb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\PhysicsEngine.exe
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\PhysicsEngine.pdb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.exe
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.pdb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\PhysicsEngine.exe
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\PhysicsEngine.pdb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.exe
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.pdb
+C:\Users\elvircrn\Documents\why hello there\maturski ako se sta desi - Copy\Platformer\PhysicsEngine\obj\x86\Debug\PhysicsEngine.csprojResolveAssemblyReference.cache

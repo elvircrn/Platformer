@@ -1,0 +1,16 @@
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\MonoGameLinuxSpecifics.exe
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\MonoGameLinuxSpecifics.pdb
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\Lidgren.Network.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\MonoGame.Framework.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\OpenTK.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\Tao.Sdl.dll
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\obj\x86\Release\MonoGameLinuxSpecifics.exe
+C:\Users\Inspiron\Desktop\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\obj\x86\Release\MonoGameLinuxSpecifics.pdb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\MonoGameLinuxSpecifics.exe
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\MonoGameLinuxSpecifics.pdb
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\Lidgren.Network.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\MonoGame.Framework.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\OpenTK.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\bin\WindowsGL\Release\Tao.Sdl.dll
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\obj\x86\Release\MonoGameLinuxSpecifics.exe
+C:\Users\elvircrn\Documents\----MATURSKI----\maturski ako se sta desi - Copy\Platformer\MonoGameLinuxSpecifics\obj\x86\Release\MonoGameLinuxSpecifics.pdb
